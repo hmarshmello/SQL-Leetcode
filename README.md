@@ -1,4 +1,4 @@
-# SQL50-Leetcode <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" style="width: 5rem;"/>
+# SQL50-Leetcode <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" style="width: 5rem;" alt="https://leetcode.com/" />
 Crack SQL Interview in 50 Qs - Answered
 Complete this Study Plan to earn a SQL LeetCode Badge
 <div align = "right">
