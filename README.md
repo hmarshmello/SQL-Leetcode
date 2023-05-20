@@ -4,7 +4,7 @@ Complete this Study Plan to earn a SQL LeetCode Badge
 <div align = "right">
  <img src = "https://institute.careerguide.com/wp-content/uploads/2020/09/interviewp_dribbble.gif" style="width: 22rem;" />
  </div>
-<p align="left">
+ 
 Companies such as :
 * Google
 * Salesforce
@@ -13,4 +13,3 @@ Companies such as :
 * Microsoft
  
 Asked these Questions in Interviews
- </p>
