@@ -2,7 +2,7 @@
 Crack SQL Interview in 50 Qs - Answered
 Complete this Study Plan to earn a SQL LeetCode Badge
 <div align = "right">
-![](https://institute.careerguide.com/wp-content/uploads/2020/09/interviewp_dribbble.gif)
+ <img src = "https://institute.careerguide.com/wp-content/uploads/2020/09/interviewp_dribbble.gif" style="max-width: 100%;" />
  </div>
 
 Companies such as :
