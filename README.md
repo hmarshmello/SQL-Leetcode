@@ -17,3 +17,8 @@ Premium Problems Break down:
 * Easy - 46
 * Medium - 82
 * Hard - 42
+
+Till Date how much i did:
+* Free - 79
+* Premium
+    - Easy - 7
