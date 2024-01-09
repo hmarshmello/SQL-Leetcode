@@ -21,4 +21,4 @@ Premium Problems Break down:
 My Sql Progress:
 * Free - 79
 * Premium
-    - Easy - 7
+    - Easy - 10
