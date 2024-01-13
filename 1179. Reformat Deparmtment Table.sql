@@ -1,3 +1,4 @@
+
 SELECT 
     id,
     SUM(case month when 'Jan' then revenue end) as Jan_Revenue,
