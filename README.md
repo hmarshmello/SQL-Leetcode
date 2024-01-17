@@ -18,9 +18,9 @@ Premium Problems Break down:
 * Medium - 82
 * Hard - 42
 
-My Sql Progress: 89/249
+My Sql Progress: 96/249
 * Free - 79
 * Premium
-    - Easy - 10
+    - Easy - 17
 
     
